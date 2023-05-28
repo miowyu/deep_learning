@@ -1,7 +1,9 @@
 # 環境
 
 keras==2.6.0
+
 pytorch==1.12.1+cpu
+
 tensorflow_model_optimization==0.7.5
 
 # 執行方式
