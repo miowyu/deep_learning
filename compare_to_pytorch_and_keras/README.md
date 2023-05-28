@@ -1,5 +1,7 @@
 # 環境
 
+numpy==1.20.3
+
 keras==2.6.0
 
 pytorch==1.12.1+cpu
